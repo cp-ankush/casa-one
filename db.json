@@ -1,0 +1,58 @@
+{
+  "billingAddress": {
+    "firstName": "John",
+    "lastName": "Williams",
+    "line1": "117 G cross road, near Temple",
+    "line2": "Ejipura",
+    "city": "Banglore",
+    "state": "Karnataka-KN",
+    "zipCode": "123456",
+    "country": "India",
+    "date": "\"2019-09-10T18:30:00.000Z\""
+  },
+  "shippingAddress": {
+    "firstName": "Kene",
+    "lastName": "Jose",
+    "line1": "87 M cross road",
+    "line2": "Indira nagar, near 100 feet road",
+    "city": "Banglore-BN",
+    "state": "Karnataka",
+    "zipCode": "987689",
+    "country": "India",
+    "date": "\"2019-09-11T18:30:00.000Z\""
+  },
+  "productItems": [
+    {
+      "id": 1,
+      "productId": "123123",
+      "name": "Chair",
+      "quantity": "3",
+      "price": "210",
+      "notes": "New chairs"
+    },
+    {
+      "id": 3,
+      "productId": "123120",
+      "name": "Handles",
+      "quantity": "10",
+      "price": "289",
+      "notes": ""
+    },
+    {
+      "id": 5,
+      "productId": "989878",
+      "name": "Doors",
+      "quantity": "4",
+      "price": "10",
+      "notes": ""
+    },
+    {
+      "id": 6,
+      "productId": "123125",
+      "name": "Bed",
+      "quantity": "5",
+      "price": "12.78",
+      "notes": "Bed in every room..."
+    }
+  ]
+}
